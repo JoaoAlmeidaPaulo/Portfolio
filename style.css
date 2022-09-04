@@ -75,7 +75,7 @@ div{
 }
 
 li{
-    margin: 10vh;
+    margin: 1vh;
     padding: 3vh;
     border-radius: 35px;
     border-width: 25px;
@@ -145,8 +145,20 @@ margin: auto;
     
 }
 
-.footer{
-
-
+.lista{
+    background-color: #90044a;
 }
+
+a{
+   color:#3d0621;
+   padding: 3vh;
+   border-style: hidden;
+   border-radius: 35px;
+    border-width: 25px;
+    width: 30%;
+   
+    
+}
+
+
 
